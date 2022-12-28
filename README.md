@@ -1,4 +1,4 @@
-Hi 👋 My name is Pavlina Psarsky 👱‍♀️
+Hi 👋 My name is Pavlina 👱‍♀️
 ======================================
 
 I love coding and I love learning.
