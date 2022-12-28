@@ -11,7 +11,9 @@ I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, 
 *   🚀  I'm currently working on [Free Code Camp's Front End Development Libraries Project #5: Build a 25 + 5 Clock](http://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on any project
-*   ⚡  I speak Czech, English, a little German and can read Cyrillic alphabet### Skills 
+*   ⚡  I speak Czech, English, a little German and can read Cyrillic alphabet
+*   
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
@@ -22,11 +24,7 @@ I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, 
 </p>
                     
 ### Socials
-                  
 <p align="left">
-                          
 <a href="https://www.github.com/PavlinaPs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.linkedin.com/in/pavlina-psarsky/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
-                          
 <a href="https://www.twitter.com/PPsarsky" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
