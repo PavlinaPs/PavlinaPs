@@ -12,7 +12,7 @@ I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, 
 *   🧠  I'm learning React.js
 *   🤝  I'm open to collaborating on any project
 *   ⚡  I speak Czech, English, a little German and can read Cyrillic alphabet
-*   
+   
 ### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
