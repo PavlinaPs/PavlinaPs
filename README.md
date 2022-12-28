@@ -4,7 +4,7 @@ Hi 👋 My name is Pavlina Psarsky 👱‍♀️
 I love coding and I love learning.
 ----------------------------------
 
-I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, Frontend Mentor, Codewars. I currently work as a webmaster and IT projects coordinator. Every day at work is a challenge and that's how I like it.
+I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, Frontend Mentor, Codewars. I currently work as a webmaster and IT projects coordinator. Every day at work is a challenge and that's how I like it!
 
 *   🌍  I'm based in Malinovo, Slovakia
 *   🖥️  See my portfolio at [My Portfolio](http://pavlinaps.github.io/my-portfolio/)
