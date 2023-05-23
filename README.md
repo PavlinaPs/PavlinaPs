@@ -8,7 +8,7 @@ I am a coding enthusiast, self taught. I continue to learn with Free Code Camp, 
 
 🌍  I'm based in Malinovo, Slovakia\
 🖥️  See my portfolio at [My Portfolio](http://pavlinaps.github.io/my-portfolio/)\
-🚀  I'm currently working on [Free Code Camp's Front End Development Libraries Project #5: Build a 25 + 5 Clock](http://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-25--5-clock)\
+🚀  I'm currently working on [Free Code Camp's Data Visualization Projects](https://www.freecodecamp.org/learn/data-visualization#data-visualization-projects)\
 🧠  I'm learning React.js\
 🤝  I'm open to collaborating on any project\
 ⚡  I speak Czech, English, a little German and can read Cyrillic alphabet
